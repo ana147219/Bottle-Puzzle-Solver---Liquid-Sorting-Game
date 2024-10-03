@@ -83,7 +83,7 @@ This project uses a tree structure to explore all possible game states and find 
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/your-username/bottle-puzzle-solver.git
+    git clone https://github.com/ana147219/Bottle-Puzzle-Solver---Liquid-Sorting-Game.git
     ```
 
 2. **Compile the Program**:
